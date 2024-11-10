@@ -20,8 +20,3 @@ This repo contains the source code of a blog project that will be used throughou
 * Emmanuel Oluwafemi
     - [GitHub](https://github.com/oluemm)
     - [Twitter/X](https://twitter.com/tz_emiwest)
-
-With the help of:
-
-* Taiwo
-
